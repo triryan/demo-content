@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/triryan/triryan.github.io.git
 	branch = master
+[submodule "themes/learn"]
+	path = themes/learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
